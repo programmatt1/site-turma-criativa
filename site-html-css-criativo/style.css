@@ -1,5 +1,5 @@
 header {
-    background-color: #e0a93b;
+    background-color: #e9c06e;
     color: white;
     margin: 0;
     padding: 0;
@@ -8,12 +8,13 @@ header {
 
 
 header {
-    background-color: #e9ac3c;
+    background-color: #ecb958;
     color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
+    margin: -12px;
 }
 
 .cabecalho-imagem {
@@ -22,5 +23,6 @@ header {
 
 .cabecalho-lista-item {
     display: inline-block;
-    padding: 24px;
+    padding: 86px;
+    font-size: larger;
 }
